@@ -1,4 +1,4 @@
 baseurl = "elizabethschattle.com"
 title = "My blog"
-theme = "uilite"
+theme = "hugo-uilite"
 
