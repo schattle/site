@@ -1,0 +1,10 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Adobe Premiere" : "90",
+		"Conservation Planning" : "80",
+		"Adobe Illustrator" : "65",
+		"Adobe InDesign" : "97",
+		"blah" : "45"
+	}
+}
