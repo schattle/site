@@ -2,15 +2,41 @@
 	"title" : "Experiences",
 	"experience" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"website": "https://www.uber.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "June 2021",
+			"company" : "master's of environmental science and management",
+			"website": "https://bren.ucsb.edu/masters-programs/master-environmental-science-and-management?utm_keyword=bren%20school&utm_device=c&utm_source=google&utm_medium=cpc&utm_term=bren%20school&utm_campaign=Search+-+Bren+-+Brand&hsa_acc=3368935662&hsa_cam=10898133550&hsa_grp=110908036007&hsa_ad=458438444069&hsa_src=g&hsa_tgt=kwd-626550212842&hsa_kw=bren%20school&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwtJ2FBhAuEiwAIKu19l0ZMbRK7FZmT2L7x6msU8HwSXZZvpwGeeMAtjuPLJPQ4icBIdsrkRoCHHIQAvD_BwE",
+			"description" : "Graduating June 2021. Specialization in Conservation Planning, Strategic Environmental Communication"
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "Mar 2021 - June 2021",
+			"company" : "Master's Group Thesis Project",
+			"website": "primatepathways.weebly.com",
+			"description" : "Our team of 5 worked to inform decision-making on community forests in the eastern region of the Democratic Republic of Congo to protect the critically endangered Eastern Lowland gorilla while simultaneously improving the wellbeing of local communities. I led the development of the proposal for this project and was a co-project manager."
+		},
+		{
+			"timeperiod" : "Mar 2021 - June 2021",
+			"company" : "Communication Capstone Project",
+			"description" : "Saving Western Monarchs is a collaboration with five masters students and the US Fish & Wildlife Service. Together we have been working to promote the western monarch migration by crafting a communication campaign aimed toward California central coast nurseries and their customers."
+		},
+		{
+			"timeperiod" : "Mar 2021 - June 2021",
+			"company" : "Forest Sustainability Capstone",
+			"description" : "SCIenthesis: A Platform for Forest Managers. We, the 2021 Bren Forest Sustainability Fellows, have been working to propose an alternative model for the science literature review associated with sustainable forest management. Our proposal combines conceptual models, overview text, coding of information, links to details and links to publications. It is also expandable, and able to be modified as new research is published."
+		},
+		{
+			"timeperiod" : "June 2019 - Aug 2019",
+			"company" : "Oregon State University",
+			"description" : "Worked as a botanist for a 4 member field crew surveying post-fire vegetation and forest fuels as part of the Blues Mountains Forest Partners in eastern Oregon"
+		},
+		{
+			"timeperiod" : "Mar 2021 - June 2021",
+			"company" : "University of Utah",
+			"description" : "Conducted field and lab work in Utah and Colorado to assess changes in forest health due to climate change."
+		},
+		{
+			"timeperiod" : "Aug 2015 - May 2018",
+			"company" : "Bachelor of Science and Arts in Biology",
+			"description" : "Graduated from the University of Texas after studying marine science, including research projects on anthropogenic affects on seagrass, and the effect of Hurricane Harvey on phytoplankton in Texas bays"
 		}
 	]
 }
