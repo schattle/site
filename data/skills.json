@@ -1,10 +1,13 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"Adobe Premiere" : "90",
-		"Conservation Planning" : "80",
-		"Adobe Illustrator" : "65",
-		"Adobe InDesign" : "97",
-		"blah" : "45"
+	  "Strategic Communication" : "95",
+	  "Conservation Planning" : "80",
+	  "Project Management" : "90",
+	  "Data Science" : "80",
+	  "Research" : "85",
+		"Adobe Premiere" : "75",
+		"Adobe Illustrator" : "95",
+		"Adobe InDesign" : "97"
 	}
 }
