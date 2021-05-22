@@ -2,18 +2,18 @@
 	"title" : "Recent Projects",
 	"services" : [
 		{
-			"icon" : "tree",
+			"icon" : "pencil-ruler",
 			"title" : "Master's Project",
 			"description" : "Our master’s group project is a collaboration between five master’s students at the Bren School of Environmental Science & Management and our client, Strong Roots Congo. Our team worked to inform decision-making on community forests in the eastern region of the Democratic Republic of Congo to protect the critically endangered Eastern Lowland (Grauer’s) gorilla while simultaneously improving the wellbeing of local communities. For this project, I was the project manager and led the development of the project from the proposal through the final presentation and recommendations."
 		},
 		{
-			"icon" : "butterfly",
+			"icon" : "pen-nib",
 			"title" : "Saving western monarchs",
 			"link" : "google.com",
 			"description" : "Saving Western Monarchs is a communication capstone project that is a collaboration with five masters students and the US Fish & Wildlife Service. Together we have been working to promote the western monarch migration by crafting a communication campaign aimed toward California central coast nurseries and their customers."
 		},
 		{
-			"icon" : "pen-nib",
+			"icon" : "pencil-ruler",
 			"title" : "Forest Tool",
 			"description" : "Saving Western Monarchs is a communication capstone project that is a collaboration with five masters students and the US Fish & Wildlife Service. Together we have been working to promote the western monarch migration by crafting a communication campaign aimed toward California central coast nurseries and their customers."
 		},
