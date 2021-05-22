@@ -1,13 +1,11 @@
 {
-	"title" : "Skills",
+	"title" : "Interests",
 	"skills" : {
 	  "Strategic Communication" : "95",
 	  "Conservation Planning" : "80",
-	  "Project Management" : "90",
-	  "Data Science" : "80",
-	  "Research" : "85",
-		"Adobe Premiere" : "75",
-		"Adobe Illustrator" : "95",
-		"Adobe InDesign" : "97"
+	  "Carbon Sequestration" : "87",
+	  "Native Plants" : "90",
+	  "Project Management" : "84",
+		"Design" : "75"
 	}
 }
