@@ -1,5 +1,6 @@
 baseurl = "https://elizabethschattle.com/"
+title = "Elizabeth Schattle"
 languageCode = "en-us"
 theme = "hugo-uilite"
-title = "Elizabeth Schattle"
+
 

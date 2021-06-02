@@ -1,11 +1,10 @@
 {
 	"title" : "Interests",
 	"skills" : {
-	  "Strategic Communication" : "95",
-	  "Conservation Planning" : "80",
-	  "Carbon Sequestration" : "87",
-	  "Native Plants" : "90",
-	  "Project Management" : "84",
-		"Design" : "75"
+	  "Strategic Communication" : "87",
+	  "Conservation Planning" : "82",
+	  "Carbon Sequestration" : "85",
+	  "Project Management" : "79",
+		"Design" : "80"
 	}
 }
