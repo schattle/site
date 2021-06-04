@@ -4,24 +4,22 @@
 		{
 			"icon" : "globe",
 			"title" : "Master's Project",
-			"website" : "https://primatepathways.weebly.com",
-			"websitename" : "Primate Pathways Project Site",
 			"popup" : "gp.html",
-			"popupname" : "Group Project",
+			"popupname" : "Learn more about this Group Project",
 			"description" : "Our team worked to inform decision-making on community forests in the eastern region of the Democratic Republic of Congo to protect the critically endangered Eastern Lowland gorilla while simultaneously improving the wellbeing of local communities."
 		},
 		{
 			"icon" : "map",
 			"title" : "Saving western monarchs",
 			"popup" : "monarchs.html",
-			"popupname" : "Monarchs Project",
+			"popupname" : "Learn More About the Monarchs Project",
 			"description" : "We have been working to promote the western monarch migration by crafting a communication campaign aimed toward California central coast nurseries and their customers."
 		},
 		{
 			"icon" : "tree",
 			"title" : "Forest Tool",
 			"popup" : "forestcap.html",
-			"popupname" : "Forest Capstone Project",
+			"popupname" : "Learn more about the Forest Capstone Project",
 			"description" : "Creating a science synthesis platform for forest sustainability"
 		}
 	]
