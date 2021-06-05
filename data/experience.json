@@ -4,7 +4,7 @@
 		{
 			"timeperiod" : "June 2021",
 			"company" : "master's of environmental science and management",
-			"description" : "Graduating June 2021. Specialization in Conservation Planning, Strategic Environmental Communication"
+			"description" : "Graduating June 2021. Specialization in Conservation Planning. Foci in Environmental Communication and Data Science."
 		},
 		{
 			"timeperiod" : "Mar 2021 - June 2021",
@@ -24,17 +24,17 @@
 		{
 			"timeperiod" : "June 2019 - Aug 2019",
 			"company" : "Oregon State University",
-			"description" : "Botanist for a field crew surveying post-fire vegetation and forest fuels in eastern Oregon"
+			"description" : "Botanist for a field crew surveying post-fire vegetation and fuels in eastern Oregon"
 		},
 		{
 			"timeperiod" : "Mar 2021 - June 2021",
 			"company" : "University of Utah",
-			"description" : "Field and lab technician working across Utah and Colorado to assess changes in forest health due to climate change"
+			"description" : "Technician working across Utah and Colorado to assess changes in forest health due to climate change"
 		},
 		{
 			"timeperiod" : "Aug 2015 - May 2018",
 			"company" : "Bachelor of Science and Arts in Biology",
-			"description" : "Graduated from the University of Texas after studying marine science, including research projects on anthropogenic affects on seagrass, and the effect of Hurricane Harvey on phytoplankton in Texas bays"
-		}
+			"description" : "Graduated from the University of Texas at Austin after studying biology and marine science"
+			}
 	]
 }

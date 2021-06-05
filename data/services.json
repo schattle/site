@@ -5,14 +5,14 @@
 			"icon" : "globe",
 			"title" : "Master's Project",
 			"popup" : "gp.html",
-			"popupname" : "Learn more about this Group Project",
+			"popupname" : "Learn more and check out our Group Project website",
 			"description" : "Our team worked to inform decision-making on community forests in the eastern region of the Democratic Republic of Congo to protect the critically endangered Eastern Lowland gorilla while simultaneously improving the wellbeing of local communities."
 		},
 		{
 			"icon" : "map",
 			"title" : "Saving western monarchs",
 			"popup" : "monarchs.html",
-			"popupname" : "Learn More About the Monarchs Project",
+			"popupname" : "Learn more and see the Monarchs Project materials",
 			"description" : "We have been working to promote the western monarch migration by crafting a communication campaign aimed toward California central coast nurseries and their customers."
 		},
 		{
