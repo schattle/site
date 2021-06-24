@@ -1,10 +1,6 @@
 {
-	"title" : "Skills",
+	"title" : "Overview",
 	"skills" : {
-	  "Strategic Communication" : "87",
-	  "Conservation Planning" : "91",
-	  "Data Science" : "85",
-	  "Project Management" : "90",
-		"Design" : "88"
+	  "I’m a Master of Environmental Science and Management. I specialized in conservation planning, with a focus in strategic communication. I’m interested in producing communication products about ecosystem sustainability in light of increasing climate change and human development." : "100"
 	}
 }
