@@ -7,19 +7,10 @@
 
     <h1 class="heading">{{ $sidebar.title }} <span class="highlight">{{ $sidebar.highlightedText }}</span></h1>
     <p class="text-muted">{{ $sidebar.description }}</p>
-
-    <div class="social my-4">
-
-      {{ range $key, $value := $social }}
-        <a target="_blank" href="{{ $value }}">
-          <i class="fab fa-{{ $key }}"></i>
-        </a>
-      {{ end }}
-      
-    </div>
+    <p class="text-muted">{{ $sidebar.description2 }}</p>
     
     <a href="#contact" class="btn btn-dark btn-lg">Contact</a>
-    <a target="_blank" href="https://www.linkedin.com/in/elizabeth-schattle-64760a158/" class="btn btn-warning btn-lg ml-2">LinkedIn</a>
+    <a target="_blank" href="https://www.linkedin.com/in/elizabeth-schattle-64760a158/" class="btn btn-dark btn-lg">LinkedIn</a>
 
     
   </div>

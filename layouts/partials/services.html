@@ -1,6 +1,6 @@
 {{ $services := .Site.Data.services }}
 
-<section class="yellow">
+<section class="orange">
   <h2 class="heading">{{ $services.title }}</h2>
 
   <div class="row justify-content-md-center text-center">
@@ -16,7 +16,7 @@
           <i class="fas"></i>
           {{ $element.websitename }}
                   </a>
-          <a href={{ $element.popup }} target="popup" onclick="window.open({{ $element.popup }},'jbnWindow','width=600,height=400')">{{ $element.popupname }} </a>
+          <a href={{ $element.popup }} class="" target="popup" onclick="window.open({{ $element.popup }},'jbnWindow','width=600,height=400')">{{ $element.popupname }} </a>
       </div>
     </div>
 

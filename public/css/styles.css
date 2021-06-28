@@ -206,29 +206,41 @@ section .heading {
 }
 
 section.yellow {
-  background-color: #ffd061;
-  color: #000 !important;
+  background-color: #FFEFA1;
 }
 
 section.yellow .progress .bg-blue {
   background-color: #c19c43;
 }
 
-section.voilet {
-  background-color: #FF7B54;
+section.bluegreen {
+  background-color: #00847D;
+  color: #FFE !important;
+}
+
+section.gray {
+  background-color: #F2F0FA;
+}
+
+section.violet {
+  background-color: #D39DDF;
 }
 
 section.blue {
-  background-color: #cadfdf;
+  background-color: #0892A5;
+  color: #FFE !important;
 }
 
 section.orange {
-  color: #fff;
-  background-color: #FFB26B;
+  background-color: #FFBD88;
+}
+
+section.limegreen {
+  background-color: #E1F4CB;
 }
 
 section.green {
-  background-color: #aaffa7;
+  background-color: #22B573;
 }
 
 section.skin {
@@ -236,12 +248,12 @@ section.skin {
 }
 
 section.aqua {
-  background-color: #00fefe;
+  background-color: #82D4BB;
   color: #000 !important;
 }
 
-section.pink {
-  background-color: #fff1f1;
+section.salmon {
+  background-color: #E49273;
 }
 
 .progress {
