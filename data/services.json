@@ -6,21 +6,28 @@
 			"title" : "Master's Project",
 			"popup" : "gp.html",
 			"popupname" : "Learn more and check out our Group Project website",
-			"description" : "Our team worked to inform decision-making on community forests in the eastern Democratic Republic of Congo to protect the critically endangered Eastern Lowland gorilla while improving the wellbeing of local communities"
+			"description" : "Informing decision-making on community forests in the eastern Democratic Republic of Congo to protect the critically endangered Eastern Lowland gorilla while improving the wellbeing of local communities"
 		},
 		{
-			"icon" : "map",
-			"title" : "Saving western monarchs",
+			"icon" : "cloud",
+			"title" : "Saving Monarchs Campaign",
 			"popup" : "monarchs.html",
 			"popupname" : "Learn more and see the Monarchs Project materials",
-			"description" : "We promoted the western monarch migration by crafting a communication campaign aimed toward California central coast nurseries and their customers"
+			"description" : "A campaign to promote the western monarch migration through outreach and engagement with California central coast nurseries and their customers"
 		},
 		{
 			"icon" : "tree",
-			"title" : "Forest Tool",
+			"title" : "Science Synthesis Tool",
 			"popup" : "forestcap.html",
 			"popupname" : "Learn more about the Forest Capstone Project",
 			"description" : "Creating a science synthesis platform for forest sustainability to keep forest managers up-to-date with current research developments"
+		},
+				{
+			"icon" : "map",
+			"title" : "Map Examples",
+			"popup" : "Maps.html",
+			"popupname" : "Learn more about the Forest Capstone Project",
+			"description" : "Miscellaneous spatial data visualization examples created using ArcGIS and Adobe Illustrator"
 		}
 	]
 }
